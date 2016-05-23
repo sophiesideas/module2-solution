@@ -42,7 +42,7 @@ h2 {
     background-color: #913232;
 }
 .beef:hover {
-    background-color: #fff;
+    background-color: blue;
     color: #913232;
     cursor: pointer;
 
@@ -51,7 +51,7 @@ h2 {
     background-color: #369818;
 }
 .sushi:hover {
-    background-color: #fff;
+    background-color: blue;
     color: #369818;
     cursor: pointer;
 }
