@@ -34,7 +34,7 @@ h2 {
     background-color: #ff8c38;
 }
 .chicken:hover {
-    background-color: #fff;
+    background-color: gray;
     color: #ff8c38;
     cursor: pointer;
 }
