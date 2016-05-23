@@ -2,13 +2,10 @@
     box-sizing: border-box;
 }
 body {
-    font-family: sans-serif;
+    font-family: helvetica;
     margin: 0;
     font-size: 16px/18px;
 }
-
-
-
 
 h1{
     text-align: center;
