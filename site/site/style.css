@@ -39,7 +39,7 @@ h2 {
     cursor: pointer;
 }
 .beef {
-    background-color: #913232;
+    background-color: red;
 }
 .beef:hover {
     background-color: blue;
@@ -48,7 +48,7 @@ h2 {
 
 }
 .sushi {
-    background-color: #369818;
+    background-color: purple;
 }
 .sushi:hover {
     background-color: blue;
